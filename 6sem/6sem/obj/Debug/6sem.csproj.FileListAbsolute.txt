@@ -1,0 +1,11 @@
+C:\Users\Терентьев\source\repos\6sem\6sem\bin\Debug\6sem.exe.config
+C:\Users\Терентьев\source\repos\6sem\6sem\bin\Debug\6sem.exe
+C:\Users\Терентьев\source\repos\6sem\6sem\bin\Debug\6sem.pdb
+C:\Users\Терентьев\source\repos\6sem\6sem\obj\Debug\6sem.csprojAssemblyReference.cache
+C:\Users\Терентьев\source\repos\6sem\6sem\obj\Debug\_6sem.Form1.resources
+C:\Users\Терентьев\source\repos\6sem\6sem\obj\Debug\_6sem.Properties.Resources.resources
+C:\Users\Терентьев\source\repos\6sem\6sem\obj\Debug\6sem.csproj.GenerateResource.cache
+C:\Users\Терентьев\source\repos\6sem\6sem\obj\Debug\6sem.csproj.CoreCompileInputs.cache
+C:\Users\Терентьев\source\repos\6sem\6sem\obj\Debug\6sem.exe
+C:\Users\Терентьев\source\repos\6sem\6sem\obj\Debug\6sem.pdb
+C:\Users\Терентьев\source\repos\6sem\6sem\obj\Debug\_6sem.OProg.resources
